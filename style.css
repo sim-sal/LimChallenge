@@ -1,0 +1,75 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    padding-top: 3%;
+}   
+
+.container{
+    width: 1000px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+header{
+    padding-top: 5%;
+}
+
+nav{
+    background-color: yellowgreen;
+    padding: 1%;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+header , nav{
+    text-align: center;
+}
+
+main{
+    margin-left: 80px;
+    padding-top: 2%;
+    padding-bottom: 6%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+
+.logo{
+    width: 200px;
+}
+
+.titolo{
+    font-size: 35px;
+    color: yellowgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   ;
+}
+
+.nomi-monopattino{
+    font-size: 20px;
+}
+
+.via-distanza-carica{
+    font-size: 13px;
+}
+
+.carica1{
+    background-color: burlywood;
+    width: 300px;
+}
+
+.carica2{
+    background-color: orange;
+    width: 500px;
+}
+
+.carica3{
+    background-color: red;
+    width: 100px;
+}
+
+.carica1 , .carica2 , .carica3{
+    border-radius: 8px;
+    height: 30px;
+}
+    
